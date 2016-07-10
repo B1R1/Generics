@@ -1,0 +1,7 @@
+<suite name="Suite1">
+    <test name="SerialExecutor Test">
+        <classes>
+            <class name="impl.SerialExecutorTest"/>
+        </classes>
+    </test>
+</suite>
